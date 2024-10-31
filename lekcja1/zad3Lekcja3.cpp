@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	int LiczbaCalkowica = 10;
 	float zmiennoPrzecinkowa = 6.5;
-	char b;
+	char b = 'A';
 	bool logiczna = true ;
 	cout << "Liczba calkowita jest " << LiczbaCalkowica;
 	cout << " Liczba zmiennoPrzecinkowa jest " << zmiennoPrzecinkowa;
