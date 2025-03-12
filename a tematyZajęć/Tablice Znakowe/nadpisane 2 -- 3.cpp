@@ -15,8 +15,9 @@ int main() {
 	if(text[i] == znak){
 		 liczbaWystapien += 1;
   }
-  cout << text[i];
+  
 
  }
+ cout << text;
   cout << "\n Liczba wystapien znaku: " << liczbaWystapien;
 }
